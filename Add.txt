@@ -17,3 +17,8 @@ https://content.api.news/v3/images/bin/a3d61c8902258640be68f7d9ccb7d922
 https://i.ytimg.com/vi/Oiqu3BEgJeo/maxresdefault.jpg
 https://th.bing.com/th/id/OIP.15Qga1m02o7qUz8q3QNNdgHaEK?pid=ImgDet&rs=1
 https://i.ytimg.com/vi/bIn093CzISc/maxresdefault.jpg
+https://assets.teenvogue.com/photos/606f4f66491cbe3d3635683d/16:9/w_2560%2Cc_limit/GettyImages-1230743370.jpg
+https://www.ft.com/__origami/service/image/v2/images/raw/https://d1e00ek4ebabms.cloudfront.net/production/87d2fe86-0cc8-4a52-a6dc-80f5ad581300.jpg?source=next-opengraph&fit=scale-down&width=900
+https://nypost.com/wp-content/uploads/sites/2/2021/06/walensky-teen-vaccine-284.jpg?quality=90&strip=all&w=1535
+https://img.apmcdn.org/3425413eca1fe9435919cfcc98c31f6a121a50d5/widescreen/32db48-20210512-vaccine-teens-duluth01-2000.jpg
+https://www.gannett-cdn.com/presto/2021/05/12/PSIF/23c77552-77c0-47dd-aec3-388e618ed2b1-Drew.jpg?crop=3259,1834,x0,y0&width=3200&height=1801&format=pjpg&auto=webp
